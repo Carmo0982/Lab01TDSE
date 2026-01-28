@@ -122,11 +122,6 @@ _Linear regression notebook executed with all cells and outputs visible_
 ![Execution Part 2](img/sagemaker_execution_polyreg.png)
 _Polynomial regression notebook executed showing results and metrics_
 
-##### 4. Plot Visualization
-
-![Plots in SageMaker](img/sagemaker_plot.png)
-_Example of plots rendered correctly in SageMaker (linear/polynomial regression)_
-
 #### Local vs SageMaker Execution Comparison
 
 | Aspect             | Local Execution                           | AWS SageMaker                                     |
