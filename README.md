@@ -1,4 +1,4 @@
-# Lab 01 - Linear and Polynomial Regression Machine Learning
+# Stellar luminosity - Linear and Polynomial Models for Regression
 
 This laboratory implements and analyzes simple linear regression and polynomial regression models using Python and Machine Learning libraries. The project includes data analysis, visualizations, model performance comparisons, and cloud deployment evidence on AWS SageMaker.
 
